@@ -1,0 +1,6 @@
+spring:
+  mvc:
+    contentnegotiation:
+      #favor-path-extension: true
+      favor-parameter: true
+      parameter-name: Format
